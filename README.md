@@ -13,6 +13,10 @@ Hilly terrain posed challenges in forest classification, especially in shadowed 
 To address these issues, additional post-processing techniques were applied, and a new class was introduced after final analysis to improve accuracy and better distinguish between ambiguous land cover types.
 
 
+## Data Sets 
+
+Got data set from https://earthexplorer.usgs.gov/
+Data set https://drive.google.com/drive/folders/1laPebco3iIfknf9EbFCnNwfuP2pad42Y?usp=sharing
 
 ## Steps Taken 
 
